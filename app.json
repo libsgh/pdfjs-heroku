@@ -1,0 +1,13 @@
+{
+  "name": "pdfjs-heroku",
+  "description": "deploy pdfjs to Heroku.",
+  "keywords": [
+    "pdfjs"
+  ],
+  "website": "https://github.com/libsgh/pdfjs-heroku",
+  "repository": "https://github.com/libsgh/pdfjs-heroku",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
