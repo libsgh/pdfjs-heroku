@@ -5,6 +5,6 @@ server {
     add_header 'Access-Control-Allow-Origin' '*';
     add_header 'Access-Control-Allow-Credentials' 'true';
     root   /usr/share/nginx/html/pdfjs;
-    index  web/viewer.html
+    index  web/viewer.html;
   }
 }
